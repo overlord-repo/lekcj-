@@ -94,5 +94,6 @@ Pracownicy:
 Pracowniki ――――――― ---- dział
 # Typ asocjacji M:N (1)
 Związek binarny typu M:N
+- Pracownik może brać udział w jednym lub wielu projektach; może też nie brac udziału w żadnym projekcie. Każdy projekt realizuje przynajmniej jeden pracownik
 Pracownik > może realizuje jeden/wielu projektów
 Projekt musi być realizowany przez wielu pracowników
