@@ -49,6 +49,7 @@ Pracownik posiada samochód, samochód jest własnością pracownika (to jest op
 2. Ilu pracowników może posiadać ten sam samochód?
 3. Czy każdy samochód musi do kogoś należeć?
 4. Czy kazdy pracownik musi posiadć samochód?
+[!TIP]
 # Cechy związku
 - Stopień związku
 1. unarny (binarny rekursywny)
