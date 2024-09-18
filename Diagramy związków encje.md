@@ -49,4 +49,16 @@ Pracownik posiada samochód, samochód jest własnością pracownika (to jest op
 2. Ilu pracowników może posiadać ten sam samochód?
 3. Czy każdy samochód musi do kogoś należeć?
 4. Czy kazdy pracownik musi posiadć samochód?
-
+# Cechy związku
+- Stopień związku
+1. unarny (binarny rekursywny)
+2. binarny
+3. ternarny
+4. n-arny
+- Typ asocjacji (kardynalność)
+1. 1:1 (jeden pracownik posiada jeden samochód)
+2. 1:Wiele (pracownik ma dużo samochodów)
+3. M:M (wiele do wiele)
+- Istnienie
+1. opcjonalny
+2. obowiązkowy
