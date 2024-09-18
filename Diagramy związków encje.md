@@ -38,5 +38,15 @@ o telefon – atrybut z wartością opcjonalną
 - Związek reprezentuje powiązania pomiędzy obiektami świata rzeczywistego
 1. Klienci posiadają rachunki bankowe
 2. Studenci otrzymują oceny z egzaminów
-- W modelu ER związek łączy encje
+- W modelu ER(Model związków encji) związek łączy encje
 - Związek z każdego końca posiada krótki opis ułatwiający interpretację związku
+#Modelowanie związków (1)
+Pracownik posiada samochód, samochód jest własnością pracownika (to jest opis związku)
+# Modelowanie związków (2)
+- Wiemy, że istnieje związek pomiędzy pracownikami a samochodami
+- Chcielibyśmy wiedzieć
+1. Ile samochodów może posiadać pracownik?
+2. Ilu pracowników może posiadać ten sam samochód?
+3. Czy każdy samochód musi do kogoś należeć?
+4. Czy kazdy pracownik musi posiadć samochód?
+
