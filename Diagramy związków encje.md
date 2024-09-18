@@ -31,8 +31,8 @@ a) ID sztuczne
 numer pozycji katalogowej, ID pracownika
 Atrybuty encji – przykład
 (#) - identyfikator encji (PESEL)
-* adres – atrybuty z wartością obowiązkową
-* pensja
+(*) adres – atrybuty z wartością obowiązkową
+(*) pensja
 o telefon – atrybut z wartością opcjonalną
 # Związek
 - Związek reprezentuje powiązania pomiędzy obiektami świata rzeczywistego
