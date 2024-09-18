@@ -83,3 +83,12 @@ Pracownicy:
 - Adam
 ## Pracownik ---- ――――― dział
 ## kieruje - jest kierowany przez
+# Typ asocjacji 1:M (1)
+- Związek binarny typu jeden do wielu 1:M
+Każdy pracownik pracuje dokładnie w jednym dziale. Dział może zatrudniać wielu pracowników
+Pracownicy:
+- Jan (windykacja)
+- Tomasz (windykacja)
+- Hektor (Kretydy)
+- Adam (Kredyty)
+Pracowniki ――――――― ---- dział
