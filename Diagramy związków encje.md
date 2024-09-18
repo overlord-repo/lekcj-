@@ -92,3 +92,7 @@ Pracownicy:
 - Hektor (Kretydy)
 - Adam (Kredyty)
 Pracowniki ――――――― ---- dział
+# Typ asocjacji M:N (1)
+Związek binarny typu M:N
+Pracownik > może realizuje jeden/wielu projektów
+Projekt musi być realizowany przez wielu pracowników
