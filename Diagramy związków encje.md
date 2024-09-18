@@ -63,6 +63,6 @@ Pracownik posiada samochód, samochód jest własnością pracownika (to jest op
 1. opcjonalny
 2. obowiązkowy
 # Cechy związku - przykład (1)
-Pracownicy firmy posiadają samochody (związek Pracownik - Samochód. stopień = Binarny)
-1 pracownik 1 samochód (typ asocjacji 1:1)
-Nie każdy pracownik posiada samochód (Opcjonalny)
+- Pracownicy firmy posiadają samochody (związek Pracownik - Samochód. stopień = Binarny)
+- 1 pracownik 1 samochód (typ asocjacji 1:1)
+- Nie każdy pracownik posiada samochód (Opcjonalny)
