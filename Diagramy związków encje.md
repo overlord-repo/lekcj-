@@ -81,4 +81,4 @@ Pracownicy:
 - Hektor (Kretydy)
 - Adam
 ## Pracownik ---- ――――― dział
-## kieruje       jest kierowany przez
+## kieruje - jest kierowany przez
