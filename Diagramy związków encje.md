@@ -73,3 +73,12 @@ Pracownik posiada samochód, samochód jest własnością pracownika (to jest op
 - Związek 1:1
 ## Pracownik - - - - - - - -  ―――――――――――――――――――― Samochód
 ##             posiada(opcjonalny)    jest własnością(obowiązkowy)
+Typ asocjacji 1:1 - przykład (1)
+Związek binarny 1:1
+Pracownicy:
+- Jan
+- Tomasz (kieruje windykacja(
+- Hektor (Kretydy)
+- Adam
+## Pracownik ---- ――――― dział
+## kieruje       jest kierowany przez
