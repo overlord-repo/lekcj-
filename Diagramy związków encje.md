@@ -71,5 +71,5 @@ Pracownik posiada samochód, samochód jest własnością pracownika (to jest op
 - Związek opcjonalny od strony pracownika
 - Związek obowiązkowy od strony samochodu
 - Związek 1:1
-## Pracownik - - - - - - - - - - -  ―――――――――――――――――――――――――――――― Samochód
+## Pracownik - - - - - - - -  ―――――――――――――――――――― Samochód
 ##             posiada(opcjonalny)    jest własnością(obowiązkowy)
