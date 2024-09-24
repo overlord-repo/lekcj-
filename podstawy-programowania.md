@@ -16,7 +16,7 @@
 1x2<sup>9</sup>=512 = 988
 # Kody ASCI na klawiaturze numerycznej
 alt + (liczba na klawiaturze numerycznej) = symbol z tablicy kodów ASCI
-█ █ █
+██████
 # Symbole to BIN █
 59 - ;
 41 - )
@@ -26,3 +26,13 @@ alt + (liczba na klawiaturze numerycznej) = symbol z tablicy kodów ASCI
 7|1
 3|1
 1|1
+█████
+41|1
+20|0
+10|0
+5|1
+2|0
+1|1
+██████
+59 = 00111011
+41 = 00101001
