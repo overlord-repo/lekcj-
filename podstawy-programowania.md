@@ -17,3 +17,12 @@
 # Kody ASCI na klawiaturze numerycznej
 alt + (liczba na klawiaturze numerycznej) = symbol z tablicy kodów ASCI
 █ █ █
+# Symbole to BIN █
+59 - ;
+41 - )
+59|1
+29|1
+14|0
+7|1
+3|1
+1|1
