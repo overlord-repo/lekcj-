@@ -1,3 +1,6 @@
+## Przydatne strony
+https://www.algorytm.edu.pl/wstp-do-c/ascii.html
+http://guweb2.gonzaga.edu/faculty/walsh/CPEN130/ascii.html
 # Mnozenie liczb binarnych
 19x52 = 1111011100 /
 52 = 110100 /
@@ -40,3 +43,4 @@ alt + (liczba na klawiaturze numerycznej) = symbol z tablicy kodów ASCI
 59 = 00111011
 41 = 00101001
 ```
+# Kodowanie "Dom"
