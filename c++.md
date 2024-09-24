@@ -14,3 +14,7 @@ int main()
     return 0;
 }
 ```
+jak używamy Getline i Cin musimy napisać 
+```
+cin.ignore()
+```
