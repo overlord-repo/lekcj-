@@ -1,5 +1,5 @@
 ## Przydatne strony
-https://www.algorytm.edu.pl/wstp-do-c/ascii.html
+https://www.algorytm.edu.pl/wstp-do-c/ascii.html |
 http://guweb2.gonzaga.edu/faculty/walsh/CPEN130/ascii.html
 # Mnozenie liczb binarnych
 19x52 = 1111011100 /
