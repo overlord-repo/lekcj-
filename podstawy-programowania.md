@@ -14,3 +14,5 @@
 1x2<sup>7</sup>=128 +
 1x2<sup>8</sup>=256 +
 1x2<sup>9</sup>=512 = 988
+# Kody ASCI na klawiaturze numerycznej
+alt + (liczba na klawiaturze numerycznej) = symbol z tablicy kodów ASCI
