@@ -16,3 +16,4 @@
 1x2<sup>9</sup>=512 = 988
 # Kody ASCI na klawiaturze numerycznej
 alt + (liczba na klawiaturze numerycznej) = symbol z tablicy kodów ASCI
+█ █ █
