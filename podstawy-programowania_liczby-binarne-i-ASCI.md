@@ -105,3 +105,8 @@ D - 68
 0
 D - 01000100
 Wynik - 0011101001000100
+```
+# Co na kartkówkę?
+Posługiwac sie tablicą kodów ASCI
+Przetwarzanie liczb BIN to DEC, DEC to BIN
+Umiec zakodować
