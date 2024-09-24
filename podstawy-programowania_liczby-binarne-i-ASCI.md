@@ -81,5 +81,5 @@ m = 1101101
 # Jak to zapisać?
 ```
 010001000110111101101101
-Trzeba tu zapisać razem
+Trzeba to zapisać razem
 ```
