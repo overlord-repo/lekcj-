@@ -3,6 +3,7 @@
 52 = 110100 /
 19 = 10011 /
 # Przetwarzanie liczb binarnych
+```
 1111011100 /
 0x2<sup>0</sup>=0 +
 0x2<sup>1</sup>=0 +
@@ -17,6 +18,7 @@
 # Kody ASCI na klawiaturze numerycznej
 alt + (liczba na klawiaturze numerycznej) = symbol z tablicy kodów ASCI
 ██████
+```
 # Symbole to BIN █
 ```
 59 - ;
