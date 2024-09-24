@@ -78,4 +78,8 @@ m = 1101101
 ```
 #111-109=2
 1101101 = 1X2<sup>0</sup> + 1X2<sup>1</sup> = 2
+# Jak to zapisać?
+```
+010001000110111101101101
+Trzeba tu zapisać razem
 ```
