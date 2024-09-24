@@ -18,7 +18,7 @@
 alt + (liczba na klawiaturze numerycznej) = symbol z tablicy kodów ASCI
 ██████
 # Symbole to BIN █
-'
+```
 59 - ;
 41 - )
 59|1
@@ -37,4 +37,4 @@ alt + (liczba na klawiaturze numerycznej) = symbol z tablicy kodów ASCI
 ██████
 59 = 00111011
 41 = 00101001
-'
+```
