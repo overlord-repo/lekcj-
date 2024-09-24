@@ -32,25 +32,14 @@ int main() {
     float dwaga; // Waga
     float dwzrost; // Wzrost
     float BMI; // Indeks masy ciała
+    float isdigit;
 
     cout << "Wpisz wagę KG: \n";
     cin >> dwaga; // Użyj cin do wczytywania liczby
     cout << "Wpisz wzrost M: \n";
     cin >> dwzrost; // Użyj cin do wczytywania liczby
-
-    cout << "Podałeś: " << dwaga << " KG, " << dwzrost << " M" << endl;
-
-    // Obliczanie BMI
-    if (dwaga > 0 && dwzrost > 0) {
-        BMI = oblicz_BMI(dwaga, dwzrost); // Wywołanie funkcji
-        string komunikat = interpretuj_BMI_s(BMI); // Zmiana lokalna
-        cout << "Twoje BMI to: " << BMI << " - " << komunikat << endl;
-    } else {
-        cout << "ŻLE: Wartości muszą być większe od zera i odpowiedz nie może zawierać NIE liczby" << endl;
-    }
-    return 0;
-}
-
+    if (isdigit(dwaga[0]) && isdigit(dwzrost[0])) {
+cout << "Podałeś: " <<stof(dwaga) << " KG, " <<stof(dwzrost) << " M" << endl;
 // Function definitions
 float oblicz_BMI(float dwaga, float dwzrost) {
     return dwaga / (dwzrost * dwzrost);
@@ -74,4 +63,16 @@ string interpretuj_BMI_s(float BMI) {
     } else {
         return "Trzeci stopień otyłości";
     }
-}
+    }
+    } else {
+    cout<<"dane nie są liczbami";
+    }
+    }
+    if (dwaga > 0 && dwzrost > 0) {
+        BMI = oblicz_BMI(dwaga, dwzrost); // Wywołanie funkcji
+        string komunikat = interpretuj_BMI_s(BMI); // Zmiana lokalna
+        cout << "Twoje BMI to: " << BMI << " - " << komunikat << endl;
+    } else {
+        cout << "ŻLE: Wartości muszą być większe od zera odpowiedz nie może zawierać NIE liczby" << endl;
+    }
+    return 0; 
