@@ -18,10 +18,10 @@ http://guweb2.gonzaga.edu/faculty/walsh/CPEN130/ascii.html
 1x2<sup>7</sup>=128 +
 1x2<sup>8</sup>=256 +
 1x2<sup>9</sup>=512 = 988
+```
 # Kody ASCI na klawiaturze numerycznej
 alt + (liczba na klawiaturze numerycznej) = symbol z tablicy kodów ASCI
 ██████
-```
 # Symbole to BIN █
 ```
 59 - ;
@@ -44,3 +44,34 @@ alt + (liczba na klawiaturze numerycznej) = symbol z tablicy kodów ASCI
 41 = 00101001
 ```
 # Kodowanie "Dom"
+```
+D - 68
+o - 111
+m - 109
+68|0
+34|0
+17|1
+8|0
+4|0
+2|0
+1|1
+0
+D = 1000100
+111|1
+55|1
+27|1
+13|1
+6|0
+3|1
+1|1
+0
+o = 1101111
+109|1
+54|0
+27|1
+13|1
+6|0
+3|1
+1|1
+0
+m = 1101101
