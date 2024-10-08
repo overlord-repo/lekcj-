@@ -54,9 +54,11 @@ void ms_to_kmh_3(float&);
 
 int main() {
     float v, wynik_kmh, ms, km;
+    //cout<<v<<" to "<<v*3.6<<" km/h.";
     cout<<"Podaj prędkość wyrazoną w m/s: ";
     cin>>v;
-    ms_to_kmh(ms,km);
+    //ms_to_kmh(ms,km);
+    ms_to_kmh(v);
     cout<<km;
     cout<<v<<" km/h";
     return 0;
