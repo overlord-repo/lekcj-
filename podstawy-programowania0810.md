@@ -81,3 +81,33 @@ void ms_to_kmh_3 (float &v) {
     v=v*3.6;
 }
 ```
+# koniec
+```
+#include <iostream>
+using namespace std;
+//Deklaracja
+bool bol(double,double,double);
+bool bol_r(bool);
+
+int main() {
+    double bok1;
+    double bok2;
+    double bok3;
+    cout << "Wpisz pierwszy bok \n";
+    cin >> bok1;
+    cout << "Wpisz drugi bok \n";
+    cin >> bok2;
+    cout << "Wpisz trzeci bok \n";
+    cin >> bok3;
+    bool bol_r = bol(bok1,bok2,bok3);
+    if (bol_r) {
+        cout << "można";
+    } else {
+        cout << "nie można";
+    }
+    return 0;
+}
+bool bol(double bok1, double bok2, double bok3) {
+     return (bok1 + bok2 > bok3) && (bok1 + bok3 > bok2) && (bok2 + bok3 > bok1) && (bok1 > 0 && bok2 > 0 && bok3 > 0);
+}
+```
