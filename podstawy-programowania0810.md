@@ -43,7 +43,7 @@ void ms_to_kmh (float ms, float km) {
     km=ms*3.6;
 }
 ```
-# ya w szoke czo to za hernya
+# ja pierdole
 ```
 #include <iostream>
 using namespace std;
