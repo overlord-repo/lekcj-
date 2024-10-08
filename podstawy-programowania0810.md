@@ -57,9 +57,14 @@ int main() {
     //cout<<v<<" to "<<v*3.6<<" km/h.";
     cout<<"Podaj prędkość wyrazoną w m/s: ";
     cin>>v;
+    //cout<<v<<" m/s to: "<<v*3.6<<" km/h.";
     //ms_to_kmh(ms,km);
-    ms_to_kmh(v);
-    cout<<km;
+    //cout<<v<<" m/s to: "<<km<<" km/h";
+    //ms_to_km(v,km);
+    //ms_to_km_2(v);
+    
+    ms_to_kmh_3(v);
+    //cout<<km;
     cout<<v<<" km/h";
     return 0;
 }
