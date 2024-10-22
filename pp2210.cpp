@@ -7,6 +7,7 @@ void function2();
 void function3();
 
 int main() {
+    while (true) {
     cout << "Napisz a\n";
     cin >> a;
     cout << "Napisz b\n";
@@ -19,6 +20,7 @@ int main() {
     function3();
     } else {
     cout << "Nie można zbudować trójkąt";
+    }
     }
     return 0;
 }
