@@ -6,8 +6,10 @@ double b = 2;
 int main()
 {
     //słowa kluczowe: for, while, do while
-    while (true) { //pętla nieskonczona
-        cout << (a++)*b++/a*100*b;
+    int i=0;
+    while (i<5) { //pętla nieskonczona
+        cout << (a++)*b++/a*100*b << "\n";
+        i--;
     } 
     return 0;
 }
